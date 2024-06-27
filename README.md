@@ -14,10 +14,9 @@
 1. 根據安裝的cuda版本下載pytorch，網址:https://pytorch.org/get-started/locally/  
 2. 於連結下載檔案並解壓縮獲得一資料夾  
 3. 將anaconda終端所在位置移動至檔案資料夾  
-4. 執行pip install -r requirement.txt  
-5. 將欲辨識的影片放在"sourse"資料夾中  
-6. 執行python rtsp_yolo7_1.py  
-7. 辨識結果的數值將存在"result"資料夾，存檔檔名為當時時間的文字文件檔案  
+4. 執行pip install -r requirement.txt
+5. 下載辨識模型[**chicken_model**](https://github.com/RuiXiangZhou/chicken_activate/releases/download/model/best_chi.pt)並置於chicken_activate資料夾中
+6. 將欲辨識的影片[**example_video**](https://github.com/RuiXiangZhou/chicken_activate/releases/download/model/Generic_DAHUA-001-20230616-154321-1686901401534-7.mp4)放在"sourse"資料夾中  
+7. 執行python rtsp_yolo7_1.py  
+8. 辨識結果的數值將存在"result"資料夾，存檔檔名為當時時間的文字文件檔案  
 
-## 樣本影片
-## 辨識模型
