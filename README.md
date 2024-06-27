@@ -20,3 +20,6 @@
 7. 執行python rtsp_yolo7_1.py  
 8. 辨識結果的數值將存在"result"資料夾，存檔檔名為當時時間的文字文件檔案  
 
+
+## Acknowledgements
+https://github.com/WongKinYiu/yolov7/
