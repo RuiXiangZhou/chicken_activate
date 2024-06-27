@@ -1,4 +1,5 @@
-# chicken activate
+# 土雞活動力偵測模型
+## chicken activate
 
 此模型能夠偵測影片中的雞隻活動力  
 模型可視化展示如下圖:  
