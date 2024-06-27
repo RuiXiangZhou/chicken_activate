@@ -11,6 +11,7 @@
 輸入: 影片  
 輸出: 活動力數值  
 使用步驟:  
+
 0. 使用anaconda建立一個虛擬環境  
 1. 根據安裝的cuda版本下載pytorch，網址:https://pytorch.org/get-started/locally/  
 2. 於連結下載檔案並解壓縮獲得一資料夾  
